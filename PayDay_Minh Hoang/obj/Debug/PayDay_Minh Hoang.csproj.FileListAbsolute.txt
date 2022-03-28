@@ -1,0 +1,45 @@
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.exe.config
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.exe
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.pdb
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csprojAssemblyReference.cache
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\MainWindow.g.cs
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\App.g.cs
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang_MarkupCompile.cache
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang_MarkupCompile.lref
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\MainWindow.baml
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.g.resources
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh_Hoang.Properties.Resources.resources
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csproj.GenerateResource.cache
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csproj.CoreCompileInputs.cache
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.exe
+D:\Intro to Programming\source\WPF\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.pdb
+D:\Intro to Programming\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.exe.config
+D:\Intro to Programming\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.exe
+D:\Intro to Programming\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.pdb
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csprojAssemblyReference.cache
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\MainWindow.g.cs
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\App.g.cs
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang_MarkupCompile.cache
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang_MarkupCompile.lref
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\MainWindow.baml
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.g.resources
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh_Hoang.Properties.Resources.resources
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csproj.GenerateResource.cache
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csproj.CoreCompileInputs.cache
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.exe
+D:\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.pdb
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.exe.config
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.exe
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\bin\Debug\PayDay_Minh Hoang.pdb
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csproj.AssemblyReference.cache
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\MainWindow.g.cs
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\App.g.cs
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang_MarkupCompile.cache
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang_MarkupCompile.lref
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\MainWindow.baml
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.g.resources
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh_Hoang.Properties.Resources.resources
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csproj.GenerateResource.cache
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.csproj.CoreCompileInputs.cache
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.exe
+D:\Fall 2019\Intro to Programming\PayDay_Minh Hoang\obj\Debug\PayDay_Minh Hoang.pdb
